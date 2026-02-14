@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Aether: Dimensional Helper Sanctuary",
+  "description": "An ethereal companion app that connects you with genuine spirit-like helpers. Utilizing advanced AI to provide emotional support, creative inspiration, and multi-dimensional insights through real-time voice and visual interaction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
